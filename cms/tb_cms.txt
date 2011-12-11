@@ -1,0 +1,3 @@
+@@1 Please, import some data (only csv import supported for now) and start your journey.
+
+@@2 In order to create a pivot table, you first need to create a dataset. To create a dataset, you need to pick a source of data. When you have selected the source of data, you will need to check all the columns that you want to summarize. Please, note that the columns you choose must contain numeric values, as text values cannot be summarized.
