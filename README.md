@@ -26,5 +26,5 @@ I did not do tests. Mostly because I do not know how to do it yet and the applic
 
 Note
 -----
-
-Janara at the moment is an exercise and it is extremely alpha. The hope is that it will provide some helpful insights for beginners on web programming and clojure. I am still deciding if implementing more features or writing Janara in another functional language (Haskell or OCaml) as my intial scope was to improve my understanding of functional programming.
+Janara is an exercise. It has a reason, but I need to grasp some more concepts in order to make it useful. Mainly, I need to understand better memory management. Specifically of clojure, I need to understand better the lazy sequences. I could add features that just mirror sql statements (better group by, filters, etc.), but that would not be what I need. What I need is a powerful backend that is able to efficiently calculate things that with SQL are tricky and with spreadsheets are even more tricky. 
+To those that know R, what I need is a "table" implementation and a good way of dealing with categorical variables.
