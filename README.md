@@ -7,7 +7,9 @@ The work flow is the following:
 -----
 
 1) First, a text based file (csv) must be imported.
+
 2) Second, a dataset must be created. At the moment datasets are only used in order to define what data can be grouped. 
+
 3) Datasets will be listed in "/datasets/list" and from there accessible to be queried.
 
 Javascripts
